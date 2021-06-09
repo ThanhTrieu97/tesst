@@ -1,0 +1,38 @@
+#wrapper{
+    width: 960px;
+    margin: 0px auto;
+    font-size: 18px;
+}
+
+
+.text-center{
+    text-align: center;
+}
+
+.font-weight-bold{
+    font-weight: bold;
+}
+
+.text-capitalize{
+    text-transform: capitalize;
+}
+
+.text-uppercase{
+    text-transform: uppercase;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.text-right{
+    text-align: right ;
+}
+
+.text-line-through{
+    text-decoration: line-through;
+
+}
+.text-color{
+    color: chocolate;
+}
